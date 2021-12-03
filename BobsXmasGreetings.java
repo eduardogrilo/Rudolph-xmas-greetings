@@ -17,7 +17,7 @@ public class BobsXmasGreetings {
     }
 
     public static void main(String[] args) {
-        String test1 = "Eu sou maluco";
+        String test1 = "Eusoumaluco";
         System.out.println(reverseVowels(test1));
     
     }
