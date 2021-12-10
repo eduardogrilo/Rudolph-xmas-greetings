@@ -1,6 +1,8 @@
 # SecondBlipChallenge
-## Rudolph's Christmas greetings
+*This code is part of the "Tech Challenge Series – Advent Calendar 2021" advanced by Blip.pt (developed by Devskiller). This challenge (Santa's shopping list) had a deadline on 2nd of December 2021*
+> This year counting down to Christmas will be even funnier and Blip will be by your side the whole time with a variety of small programming puzzles and lots of prizes!
 
+## Task description
 Rudolph likes to spice up his Christmas cards by messing around with the greetings text. He likes to move around with the vowels on the greetings to make them hard to read. When he wants to write a message he reverses the order of all the vowels making them a little hard to read.
 
 For example the greeting "Merry Christmas & Happy New Year!" contains the vowels from the back "aeeaaie". He then writes the greeting replacing these vowels instead: "Marry Chrestmes & Happy Naw Yier!"
