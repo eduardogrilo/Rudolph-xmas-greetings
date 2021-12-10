@@ -24,5 +24,5 @@ reverseVowels("aeiou") should return "uoiea"
 ```
 
 Constraints  
-Length of input string can be in the range of 0 to 1,000 characters  
-Only english vowels are to be used: "aeiou" and "AEIOU"
+- Length of input string can be in the range of 0 to 1,000 characters  
+- Only english vowels are to be used: "aeiou" and "AEIOU"
