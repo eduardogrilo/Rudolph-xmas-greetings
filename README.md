@@ -14,12 +14,14 @@ Function signature
 reverseVowels(String greeting) returns String
 
 Examples:  
+```
 reverseVowels("Merry Christmas & Happy New Year!") should return "Marry Chrestmes & Happy Naw Yier!"  
 reverseVowels("James") should return "Jemas"  
 reverseVowels("Bob") should return "Bob"  
 reverseVowels("Unwrap yourself a joyful Christmas!") should return "anwrip yuorsalf e juyfol ChrastmUs!"  
 reverseVowels("ZZZ") should return "ZZZ"  
 reverseVowels("aeiou") should return "uoiea"  
+```
 
 Constraints  
 Length of input string can be in the range of 0 to 1,000 characters  
