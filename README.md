@@ -9,17 +9,17 @@ For example the greeting "Merry Christmas & Happy New Year!" contains the vowels
 
 Write a program that will accept a greeting message and reverse the vowels in this manner.
 
-Function signature
+Function signature  
 reverseVowels(String greeting) returns String
 
-Examples:
-reverseVowels("Merry Christmas & Happy New Year!") should return "Marry Chrestmes & Happy Naw Yier!"
-reverseVowels("James") should return "Jemas"
-reverseVowels("Bob") should return "Bob"
-reverseVowels("Unwrap yourself a joyful Christmas!") should return "anwrip yuorsalf e juyfol ChrastmUs!"
-reverseVowels("ZZZ") should return "ZZZ"
-reverseVowels("aeiou") should return "uoiea"
+Examples:  
+reverseVowels("Merry Christmas & Happy New Year!") should return "Marry Chrestmes & Happy Naw Yier!"  
+reverseVowels("James") should return "Jemas"  
+reverseVowels("Bob") should return "Bob"  
+reverseVowels("Unwrap yourself a joyful Christmas!") should return "anwrip yuorsalf e juyfol ChrastmUs!"  
+reverseVowels("ZZZ") should return "ZZZ"  
+reverseVowels("aeiou") should return "uoiea"  
 
-Constraints
-Length of input string can be in the range of 0 to 1,000 characters
+Constraints  
+Length of input string can be in the range of 0 to 1,000 characters  
 Only english vowels are to be used: "aeiou" and "AEIOU"
