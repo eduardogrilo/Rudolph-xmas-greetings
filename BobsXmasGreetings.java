@@ -1,13 +1,13 @@
 public class BobsXmasGreetings {
 
-    public static boolean isVowel(char c) {
+    public boolean isVowel(char c) {
         return (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'|| c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U');
     }
 
-    public static String reverseVowels(String greeting) {
+    public String reverseVowels(String greeting) {
         int countNumVowels = 0;
         char[] vowelsArray = new char[greeting.length()];
-        for (int i = greeting.length()-1; i>=0; i--) {
+        for (int i = greeting.length()-1; i >= 0; i--) {
             char greetingChar1 = greeting.charAt(i); //Converts every single String character (greeting) into a single char
             
             if (isVowel(greetingChar1)) {
@@ -27,13 +27,5 @@ public class BobsXmasGreetings {
             }
         }
         return new String(greetingCharArray);
-    }
-
-    public static void main(String[] args) {
-        String test1 = "Eu sou maluco";
-        System.out.println(reverseVowels(test1));
-        String test2 = "Aeiou";
-        System.out.println(reverseVowels(test2));
-    
     }
 }
