@@ -1,5 +1,5 @@
 # Rudolph Xmas Greetings 
-This code is part of the "Tech Challenge Series – Advent Calendar 2021" advanced by Blip.pt (developed by Devskiller). This task (Rudolph Christmas Greetings) is the second one of this challenge and had a deadline on 3rd December 2021. The first task can be found in [here](https://github.com/eduardogrilo/Santas-Shopping-List) 
+This code is part of the "Tech Challenge Series – Advent Calendar 2021" advanced by Blip.pt (developed by Devskiller). This task (Rudolph Christmas Greetings) is the second one of this challenge and had a deadline on 3rd December 2021. The first task can be found in [here](https://github.com/eduardogrilo/Santas-Shopping-List).
 
 *This year counting down to Christmas will be even funnier and Blip will be by your side the whole time with a variety of small programming puzzles and lots of prizes!*
 
